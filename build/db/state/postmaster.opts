@@ -1,0 +1,1 @@
+/nix/store/j1by8l462jik0hyssba202faca06nlrk-postgresql-13.5/bin/postgres "-D" "build/db/state" "-k" "/home/rrawat/Student_Survey_System/build/db" "-c" "listen_addresses="
